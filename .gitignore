@@ -1,4 +1,4 @@
 .vscode
-server/build
+build
 server/external/
 client/*/__pycache__
